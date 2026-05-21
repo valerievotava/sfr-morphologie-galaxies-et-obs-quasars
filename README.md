@@ -3,7 +3,7 @@
 Projet expérimental d'astrophysique — L3 Magistère de Physique Fondamentale d'Orsay (Avril 2026)
 
 **Auteurs :** Félix Ledoux, Valérie Votava  
-**Encadrants :** Léa Dumilly, Hervé Dole
+
 
 ---
 

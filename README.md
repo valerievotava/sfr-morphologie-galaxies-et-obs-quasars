@@ -1,1 +1,1 @@
-# sfr-morphologie-galaxies-et-obs-quasars
+Projet expérimental d'astrophysique (L3 – Magistère de Physique Fondamentale d'Orsay). Étude de la corrélation entre la morphologie des galaxies (indice de Sérsic) et le taux de formation stellaire (SFR), à partir de données d'archive Spitzer (8 µm, 24 µm) et du traceur Hα sur un échantillon de 7 galaxies proches. Comprend également un projet secondaire sur la détection du quasar 3C 273 par photométrie et spectroscopie.

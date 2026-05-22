@@ -13,8 +13,8 @@ Ce projet a deux volets :
 
 ### 1. Corrélation morphologie – SFR
 Étude de la corrélation entre la morphologie des galaxies (indice de Sérsic) et leur taux de formation stellaire (SFR), à partir de données d'archive issues de :
-- **Spitzer** (traceurs 8 µm et 24 µm)
-- **GALEX** (traceur Hα)
+- **SPITZER**
+- **GALEX** 
 
 Échantillon de 7 galaxies proches : NGC 3034, NGC 3031, NGC 4254, NGC 4594, NGC 4826, NGC 5055, NGC 5195.
 

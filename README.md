@@ -2,7 +2,7 @@
 
 Projet expérimental d'astrophysique — L3 Magistère de Physique Fondamentale d'Orsay (Avril 2026)
 
-**Auteurs :** [Félix Ledoux](https://github.com/dalekpascontent), Valérie Votava
+**Auteurs :** [Félix Ledoux](https://github.com/dalekpascontent), [Valérie Votava](https://github.com/valerievotava)
 
 
 ---
